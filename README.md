@@ -1,3 +1,9 @@
+<img width="1680" alt="Screenshot 2024-06-30 at 4 25 24 PM" src="https://github.com/GavinWang-2024/GoogleSearch_frontend/assets/169739616/f5947743-dba8-4475-bc16-3dfb3d0962aa">
+<img width="1680" alt="Screenshot 2024-06-30 at 4 26 05 PM" src="https://github.com/GavinWang-2024/GoogleSearch_frontend/assets/169739616/ca4b4814-c2dc-468b-a6ba-70d10c0f296f">
+<img width="1680" alt="Screenshot 2024-06-30 at 4 25 43 PM" src="https://github.com/GavinWang-2024/GoogleSearch_frontend/assets/169739616/be16d251-58b6-4e3b-98ac-efd15bac43aa">
+
+
+
 # GoogleSearch_frontend
 
 
