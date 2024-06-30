@@ -1,5 +1,9 @@
 # GoogleSearch_frontend
 
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 ## Overview
 GoogleSearch_frontend is a simple frontend project that emulates a Google search interface. It provides basic HTML and CSS files to display a search bar and search results similar to Google.
 
