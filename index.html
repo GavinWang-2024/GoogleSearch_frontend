@@ -8,20 +8,21 @@
     </head>
     <body>
         <div>
-            <ul class="navbar">
-                <li><a href="images.html">Image Search</a></li>
-                <li><a href="advanced.html">Advanced Search</a></li>
+            <ul class="navbar-google">
+                <li class="navbar-item-google"><a href="images.html">Image Search</a></li>
+                <li class="navbar-item-google"><a href="advanced.html">Advanced Search</a></li>
             </ul>
         </div>
-        <div class='picture'>
-            <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" class="small-img" alt="Google web search">
+        <div class='center-div'>
+            <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" class="img-fluid" alt="Google web search" height="92">
         </div>
-        <div class="search-container">
-            <form action="https://google.com/search">
-                <input type="text" name="q" class="search-bar">
-                <input type="submit" value="Google Search" class="search-button">
-            </form>
-        </div>  
+        <form action="https://google.com/search">
+                <input type="text" name="q" class="rounded-input">
+                <div class="center-div">
+                    <input type="submit" value="Google Search" class="btn-google">
+                    <input name="btnI" type="submit" value="I'm Feeling Lucky" class="btn-google">
+                </div>
+        </form> 
     </body>
 </html>
 
